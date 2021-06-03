@@ -1,0 +1,3 @@
+file2.txt
+Lorem ipsum
+New line
